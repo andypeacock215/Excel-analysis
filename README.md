@@ -1,5 +1,5 @@
 # Excel Analysis
-This is work that I did in Excel during my Data Skills Bootcamp.
+This is work that I did in Excel during my Data Technician Skills Bootcamp.
 
 ## Project 1: First use of aggregate values
 
